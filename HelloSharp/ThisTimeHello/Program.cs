@@ -17,6 +17,8 @@ namespace ThisTimeHello
 
             Console.WriteLine("67567");
             Console.WriteLine("tyuiioo");
+
+            Console.WriteLine("mazaliak");
         }
     }
 }
