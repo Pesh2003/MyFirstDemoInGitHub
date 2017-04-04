@@ -12,7 +12,7 @@ namespace ThisTimeHello
         {
             Console.WriteLine("Helo Melo :)");
             Console.WriteLine("Add another feature to the club :))");
-            Console.WriteLine("This is third ");
-        }
+            Console.WriteLine("1234567");
+            Console.WriteLine("This is third ");        }
     }
 }
